@@ -1,14 +1,16 @@
-# Self-Service-Data-Preparation
+# "Self Service" Data Preparation
 
 ## Overview
-This is a project at Microsoft Research that aims to help end-users to solve data integration and data cleaning problems.
+It is widely [cited](https://www.gartner.com/en/documents/3418832/market-guide-for-self-service-data-preparation) that data analysts and data scientists today spend a large fraction (up to 80%) of their time on preparing and cleaning data.
+
+At Microsoft Research, we are looking at ways to automate common data preparation tasks, where the goal is to empower enterprise workers as well as less-technical end-users (e.g., in Excel, Power BI, etc.), to solve their data preparation challenges and improve their productivity.
+
+Technologies developed in this project have shipped as features in Microsoft products, such as in [Power Query](https://docs.microsoft.com/en-us/power-query/power-query-what-is-power-query) (natively integrated in Excel under the “Data” tab, also available in Power BI), and [Azure Machine Learning Data Prep](https://docs.microsoft.com/en-us/python/api/azureml-dataprep/?view=azure-ml-py).
 
 
+## List of benchmark data sets used in published work
 
-
-## List of Benchmark Data Sets 
-
-From time to time we receive requests to access benchmark data sets used in our projects. We are publishing them on GitHub for other researchers.
+From time to time we receive requests from researchers for benchmark data sets used in our projects. We produce a compiled list here on GitHub to facilitate future research.
 
 * ##### [TEGRA:](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Main.pdf) Automatic table segmentation. &nbsp;&nbsp;[[data]](https://github.com/Yeye-He/TEGRA-Table-Segmentation) 
 
