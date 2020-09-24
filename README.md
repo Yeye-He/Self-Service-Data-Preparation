@@ -20,6 +20,12 @@ From time to time we receive requests to access benchmark data sets used in our 
 
 * ##### [Auto-Detect:](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/AutoDetect.pdf) Automatic detection of errors in tables.  &nbsp;&nbsp;[[data]](https://github.com/zphuangHKUCS/Auto-Detect-released-data)
 
-* ##### [Auto-Type:](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/main2.pdf) Type-detection for semantic data types.  &nbsp;&nbsp;[data to be released when approved]
+* ##### [Auto-Type:](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/main2.pdf) Type-detection for semantic data types.  &nbsp;&nbsp;[[data]](https://github.com/congy/AutoType/)
 
 * ##### [TDE:](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/TDE-demo.pdf) Transform-Data-by-Example.  &nbsp;&nbsp;[[data]](https://github.com/Yeye-He/Transform-Data-by-Example)
+
+
+* ##### [Auto-EM:](https://www.microsoft.com/en-us/research/publication/auto-em-end-to-end-fuzzy-entity-matching-using-pre-trained-deep-models-and-transfer-learning/) Pre-trained entity-matching models.  &nbsp;&nbsp;[[data]](https://github.com/henryzhao5852/AutoEM) -- data to be available when approved
+
+
+* ##### [Auto-Suggest:](https://www.microsoft.com/en-us/research/publication/auto-suggest-learning-to-recommend-data-preparation-steps-using-data-science-notebooks/) Recommend contextualized data-prep steps/operations.  &nbsp;&nbsp;[[data]](https://github.com/congy/AutoSuggest) -- data to be available when approved
