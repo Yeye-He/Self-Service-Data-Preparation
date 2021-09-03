@@ -27,7 +27,7 @@ From time to time we receive requests from researchers for benchmark data sets u
 * ##### [TDE:](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/TDE-demo.pdf) Transform-Data-by-Example.  &nbsp;&nbsp;[[data]](https://github.com/Yeye-He/Transform-Data-by-Example)
 
 
-* ##### [Auto-EM:](https://www.microsoft.com/en-us/research/publication/auto-em-end-to-end-fuzzy-entity-matching-using-pre-trained-deep-models-and-transfer-learning/) Pre-trained entity-matching models.  &nbsp;&nbsp;[[data]](https://github.com/henryzhao5852/AutoEM) -- to be available when approved
+* ##### [Auto-EM:](https://www.microsoft.com/en-us/research/publication/auto-em-end-to-end-fuzzy-entity-matching-using-pre-trained-deep-models-and-transfer-learning/) Pre-trained entity-matching models.  &nbsp;&nbsp;[[code]](https://github.com/henryzhao5852/AutoEM) 
 
 
 * ##### [Auto-Suggest:](https://www.microsoft.com/en-us/research/publication/auto-suggest-learning-to-recommend-data-preparation-steps-using-data-science-notebooks/) Recommend contextualized data-prep steps/operations.  &nbsp;&nbsp;[[data]](https://github.com/congy/AutoSuggest)
