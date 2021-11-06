@@ -33,10 +33,10 @@ From time to time we receive requests from researchers for benchmark data sets u
 * ##### [Auto-Suggest:](https://www.microsoft.com/en-us/research/publication/auto-suggest-learning-to-recommend-data-preparation-steps-using-data-science-notebooks/) Recommend contextualized data-prep steps/operations.  &nbsp;&nbsp;[[data]](https://github.com/congy/AutoSuggest)
 
 
-* ##### [Auto-Validate:](https://www.microsoft.com/en-us/research/uploads/prod/2021/04/auto_validate_full.pdf) Unsupervised data validation.  &nbsp;&nbsp;[[data]](https://github.com/jiesongk/auto-validate)
-
-
 * ##### [Auto-Fuzzy-Join:](https://www.microsoft.com/en-us/research/publication/auto-fuzzyjoin-auto-program-fuzzy-similarity-joins-without-labeled-examples/) Fuzzy similarity-joins without labeled examples.  &nbsp;&nbsp;[[data]](https://github.com/chu-data-lab/AutomaticFuzzyJoin)
+
+
+* ##### [Auto-Validate:](https://www.microsoft.com/en-us/research/uploads/prod/2021/04/auto_validate_full.pdf) Unsupervised data validation.  &nbsp;&nbsp;[[data]](https://github.com/jiesongk/auto-validate)
 
 
 * ##### [Auto-Pipeline:]() Synthesize data pipelines by-target.  &nbsp;&nbsp;[[data]](https://gitlab.com/jwjwyoung/autopipeline-benchmarks)
